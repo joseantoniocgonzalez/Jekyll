@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+# Configuración de tu sitio
+title: "Seis Naciones"
+email: jose@seisnaciones.org
+description: "Seis naciones y un trofeo"
+baseurl: "" # el subdirectorio de tu sitio, si aplica, e.g. /blog
+url: "" # la URL base de tu sitio, e.g. http://ejemplo.com
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Configuración de construcción
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed

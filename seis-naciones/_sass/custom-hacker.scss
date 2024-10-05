@@ -1,0 +1,19 @@
+/* Cambiar el color del fondo del cuerpo */
+body {
+    background-color: #1e1e1e; /* Color oscuro */
+    color: #d1d1d1; /* Color del texto */
+}
+
+/* Cambiar el color de los enlaces */
+a {
+    color: #58a6ff; /* Azul claro */
+}
+
+a:hover {
+    color: #ff9800; /* Naranja al pasar el ratón */
+}
+
+/* Modificar los títulos */
+h1, h2, h3 {
+    color: #8abf34; /* Verde para los títulos */
+}

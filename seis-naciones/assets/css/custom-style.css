@@ -1,0 +1,84 @@
+/* Configuración básica del cuerpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1e1e1e; /* Fondo oscuro */
+    color: #ffffff; /* Texto blanco */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Títulos en blanco */
+h1, h2, h3 {
+    color: #ffffff; /* Títulos en blanco */
+    margin-bottom: 20px;
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #58a6ff; /* Azul claro para los enlaces */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff9800; /* Cambiar a naranja al pasar el mouse */
+}
+
+/* Tamaño y espaciado de las imágenes */
+img {
+    max-width: 100%;  /* La imagen no se extiende fuera del contenedor */
+    height: auto;     /* Mantiene las proporciones */
+    margin-bottom: 30px; /* Espacio debajo de la imagen */
+    margin-top: 20px;  /* Espacio arriba de la imagen */
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Ajustar el espaciado del contenido principal */
+div {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 900px; /* Aumenta el ancho del contenedor */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+    border-radius: 8px; /* Bordes redondeados */
+}
+
+/* Listas con mejor espaciado */
+ul {
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+
+li::before {
+    content: ">> "; /* Flecha para los ítems de la lista */
+    color: #8abf34;
+    font-weight: bold;
+}
+
+/* Barra de navegación */
+nav {
+    background-color: #444;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #333;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ff9800; /* Naranja en hover */
+    color: white;
+}

@@ -1,0 +1,12 @@
+# Ignorar los archivos generados por Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignorar otros archivos comunes que no se deben guardar
+node_modules/
+.DS_Store
+*.log
+*.tmp
+
