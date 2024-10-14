@@ -1,12 +1,12 @@
-
-
---
+---
 layout: default
-title: "Prueba: Introducción a la implantación de aplicaciones web"
+title: "Prueba: Introducción a la Implantación de Aplicaciones Web"
+permalink: /prueba-introduccion/
 ---
 
-# Prueba: Introducción a la implantación de aplicaciones web
+# Prueba: Introducción a la Implantación de Aplicaciones Web
 
-**Jose Antonio Canalo González**
-![Descripción de la imagen](/assets/images/image.jpg)
+**José Antonio Canalo González**
+
+![Escobula](/assets/images/image.jpg)
 
